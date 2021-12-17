@@ -14,12 +14,12 @@
     float: left;
     }
     #i{
-    width: 75vh ;
+    width: 100vh ;
     float: left;
     height: 32vh;
     }
     #o{
-    width: 78vh;
+    width: 55vh;
     height: 32vh;
     }
     #f{
@@ -41,3 +41,4 @@
     #e{
         height: 40vh;
     }
+   
